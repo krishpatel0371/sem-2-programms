@@ -1,0 +1,69 @@
+.ab{
+    background-color: rgb(5, 245, 221);
+    height: 370px;
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+.bc{
+    background-color: purple;
+    height: 30px;
+}
+.cd{
+    background-color: rgb(252, 166, 7);
+    
+    height: 300px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.ss{
+    color: white;
+    background-color: black;
+    width: 60%;
+    padding-left: 15px;
+    height: 30px;
+    margin-bottom: 40px;
+
+
+}
+.gg{
+    
+        color: white;
+        background-color: black;
+        width: 60%;
+        height: 30px;
+
+        padding-left: 10px;
+        margin-bottom: 40px;
+    
+}
+.rr{
+    color: white;
+    background-color: black;
+    height: 30px;
+
+    width: 60%;
+    padding-left: 10spx;
+    margin-bottom: 10px;
+}
+.pp{
+    background-color: black;
+	color: white;
+	height: 120px;
+	width: 30%;
+	margin-left: 10px;
+	float:right;
+	
+	margin-top: -140px;
+}
+.nn{
+    background-color: blue;
+}
+@media(minwidth:600px){
+    .pp{
+        width: 100%;
+    }
+    
+    
+    
+}
